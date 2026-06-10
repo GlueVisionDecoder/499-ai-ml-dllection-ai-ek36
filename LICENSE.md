@@ -1,4 +1,4 @@
-# 
+# Automatic 499 AI/ML/DL Projects Collection templates. Featuring sentiment-analysis and computer-vision — optimized for maximum performance.
 
 
 
